@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!basic_embeddings_example_restapi.ipynb
+!requirements.txt
+
+# Ensure .gitignore itself is not ignored
+!.gitignore
