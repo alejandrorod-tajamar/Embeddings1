@@ -45,4 +45,4 @@ Para probar este proyecto, estos son los pasos a seguir:
    }
    ```
 
-8. Sigue las instrucciones en `basic_embeddings_example_restapi.ipynb`
+8. Sigue las instrucciones en (basic_embeddings_example_restapi.ipynb)[basic_embeddings_example_restapi.ipynb]
